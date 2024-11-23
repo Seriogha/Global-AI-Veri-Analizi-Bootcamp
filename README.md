@@ -7,7 +7,7 @@ Bu proje, video oyunlarıyla ilgili bir veri seti üzerinde yapılan **Keşifsel
 Veri setinde, farklı **oyun türleri**, **platformlar**, **fiyatlar** ve **kullanıcı derecelendirmeleri** gibi çeşitli değişkenler bulunmaktadır. Bu proje, oyunların kullanıcılar tarafından nasıl değerlendirdiğini anlamak için bu verileri kullanır ve platformlar arası farkları ortaya koyar.
 
 ## **Veri Seti Özeti**
-Bu projede kullanılan veri seti, **Video Game Reviews and Ratings** adlı bir veri kümesidir. Veri setinde yer alan başlıca sütunlar şunlardır:
+Bu projede kullanılan veri seti, **Video Game Reviews and Ratings** adlı bir veri kümesidir. Veri setinde yer alan bazı başlıca sütunlar şunlardır:
 - **Game Title**: Oyun ismi
 - **User Rating**: Kullanıcı derecelendirmesi
 - **Price**: Oyun fiyatı
@@ -36,7 +36,6 @@ Veri seti, oyunların platformlar, türler ve fiyatlarla nasıl ilişkili olduğ
 - **Pandas**: Veri işleme ve analizi için kullanıldı.
 - **NumPy**: Sayısal veri işleme ve hesaplamalar için kullanıldı.
 - **Matplotlib** ve **Seaborn**: Veri görselleştirme için kullanıldı.
-- **Scikit-learn**: Eksik veri doldurma ve modelleme işlemleri için kullanıldı.
 
 ## **Proje Adımları**
 1. **Veri Yükleme ve Temizleme**: Veri seti yüklendi, eksik veriler tespit edilip uygun şekilde dolduruldu.
@@ -50,13 +49,8 @@ Veri seti, oyunların platformlar, türler ve fiyatlarla nasıl ilişkili olduğ
 - **Fiyatlandırma**: Düşük fiyatlı oyunlar daha geniş bir kullanıcı kitlesine ulaşırken, yüksek fiyatlı oyunlar daha fazla kullanıcı derecelendirmesi almıştır.
 - **Öneri**: Geliştiricilerin özellikle **PlayStation** ve **PC platformlarında, strateji ve macera türlerine odaklanması** önerilmektedir.
 
-## **Gelecekteki Çalışmalar**
-- Kullanıcı yorumlarını analiz etmek için **doğal dil işleme** (NLP) teknikleri kullanılabilir.
-- Oyun içi etkileşim ve kullanıcı geri bildirimlerine dayalı olarak **kişiselleştirilmiş tavsiye sistemleri** geliştirilebilir.
-
----
 
 ### **Proje Linkleri**
-- **Kaggle Notebook**: [Kaggle Proje Linki](kaggle-linkinizi-buraya-ekleyin)
-- **GitHub Repo**: [GitHub Repo Linki](github-repo-linkinizi-buraya-ekleyin)
+- **Kaggle Notebook**: [Kaggle Proje Linki]([kaggle-linkinizi-buraya-ekleyin](https://www.kaggle.com/code/seriogha/video-game-dataset/edit))
+- **GitHub Repo**: [GitHub Repo Linki](https://github.com/Seriogha/Global-AI-Veri-Analizi-Bootcamp)
 
