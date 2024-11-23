@@ -1,0 +1,1 @@
+# Global-AI-Veri-Analizi-Bootcamp
