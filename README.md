@@ -53,6 +53,7 @@ Veri seti, oyunların platformlar, türler ve fiyatlarla nasıl ilişkili olduğ
 ### **Proje Linkleri**
 - **Kaggle Notebook**: https://www.kaggle.com/code/seriogha/video-game-dataset
 - **GitHub Repo**: [GitHub Repo Linki](https://github.com/Seriogha/Global-AI-Veri-Analizi-Bootcamp)
+- **Kullandığım veri seti**: https://www.kaggle.com/datasets/jahnavipaliwal/video-game-reviews-and-ratings
 
 NOT: Kaggle notebookumu kaydetmeye çalıştığımda her seferinde kernel ile ilgili bir hata ile karşılaştım. Kaydedemediğim için de kaggle notebookumun linkini attığımda ben hariç herkeste boş bir notebook açılıyor. Bu sorunu çözemediğim için notebookumu indirip githuba yükleyebildim. Yaşanan sıkıntı için özür dilerim.
 
