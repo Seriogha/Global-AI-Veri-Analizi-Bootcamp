@@ -51,6 +51,6 @@ Veri seti, oyunların platformlar, türler ve fiyatlarla nasıl ilişkili olduğ
 
 
 ### **Proje Linkleri**
-- **Kaggle Notebook**: [Kaggle Proje Linki]([kaggle-linkinizi-buraya-ekleyin](https://www.kaggle.com/code/seriogha/video-game-dataset/edit))
+- **Kaggle Notebook**: https://www.kaggle.com/code/seriogha/video-game-dataset
 - **GitHub Repo**: [GitHub Repo Linki](https://github.com/Seriogha/Global-AI-Veri-Analizi-Bootcamp)
 
